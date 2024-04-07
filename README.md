@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/benayaokta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=benayaokta&show_icons=true&theme=transparent&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=benayaokta&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/benayaokta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benayaokta&layout=donut&theme=transparent&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benayaokta&layout=donut&theme=transparent" />
 </a>
 
 <!--
