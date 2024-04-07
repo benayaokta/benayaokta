@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Benaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=benayaokta)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=benayaokta&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **benayaokta/benayaokta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
