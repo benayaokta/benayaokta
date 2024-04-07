@@ -3,6 +3,13 @@
 [![My stats](https://github-readme-stats.vercel.app/api?username=benayaokta&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benayaokta&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benayaokta&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benayaokta&layout=donut&theme=transparent" />
+</a>
+
 <!--
 **benayaokta/benayaokta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
