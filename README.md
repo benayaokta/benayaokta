@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-💻 Apple Developer Academy @BINUS Cohort 3
-🍎 iOS Developer @ INDODAX
-📸 Digital and film photography
-👨🏻‍💻 Learning new stuffs i.e Flutter, Kotlin (more to come)
+- 💻 Apple Developer Academy @BINUS Cohort 3
+- 🍎 iOS Developer @ INDODAX
+- 📸 Digital and film photography
+- 👨🏻‍💻 Learning new stuffs i.e Flutter, Kotlin (more to come)
 
 My public repo's stats are terible.
 waiting for vercel to read my private repos. (hope I integrate it correctly)
